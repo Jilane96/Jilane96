@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jilane96
-- 👀 I’m interested in belnding my domain of Textile Engineering with Data Scienece
-- 🌱 I’m currently learning learning Data Science to advent for some creative innovation or someting similar.
+- 👀 I’m interested in exploring my domain of Textile Engineering with Data Scienece
+- 🌱 I’m currently learning Data Science to advent for some creative innovation or someting similar.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ak.jilane96@gmail.com; Phone: +8801851730955
 - 😄 Pronouns: 🧍‍♂️🏃‍♂️
